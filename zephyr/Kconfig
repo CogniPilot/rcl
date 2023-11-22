@@ -1,0 +1,10 @@
+# SPDX-License-Identifier: Apache-2.0
+menuconfig RCL
+        bool "RCL support"
+        help
+          This option enables RCL
+
+if RCL
+
+endif
+
